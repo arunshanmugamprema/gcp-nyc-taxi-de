@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+
+# Environment
+.env
+.venv
+
+# OS
+.DS_Store
+
+# Cloud shell
+.cache/
+.config/
+.local/
+.ssh/
+
+# logs
+*.log
